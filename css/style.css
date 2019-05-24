@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+}
+.container{
+
+background-color: gainsboro;
+
+width: 1000px;
+
+height: 600px;
+
+margin-left: auto;
+
+margin-right: auto;
+}
+.col-1-3{
+    width: 33.3%;
+    height: 150px;
+    float: left;
+}
+.col-1-1{
+    width: 100%;
+    height: 150px;
+    float: left;
+    background: orange;
+}
+.col-1-2{
+    width: 50%;
+    height: 150px;
+    float: left;
+    background: blue;
+}
+.col-8-10{
+    width: 80%;
+    height: 150px;
+    float: left;
+    background: #567777;
+}
+.col-1-10{
+    width: 10%;
+    height: 150px;
+    float: left;
+    background: #6d471a;
+}
+.green{background-color: green;}
+.orange{background-color: orange;}
+.red{background-color: #116875;}
+.skyblue{background-color: skyblue;}
+.purple{background-color: #80008099;}
+.yellow{background-color: #8a8402b3;}
+.cyan{background-color: #a20f3ae3;}
+.magenta{background-color: #d4a4a4;}
+.black{background-color: #65ff008f;}
